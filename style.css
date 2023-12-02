@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Encode+Sans&family=Gabarito&family=Great+Vibes&family=Montserrat&family=Poppins&family=Ubuntu&family=Zeyada&display=swap');
+.nav-logo{
+    height: 60px;
+    width: 60px;   
+}
+.m-body{
+   
+    background-color: rgb(14, 13, 13);
+
+   
+  
+   
+}
+.item-nav{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.item-nav:hover{
+    color: rgb(52, 183, 52);
+}
+.anchor{
+    margin-left: 1100px;
+}
+.body-section{
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.box-left{
+    
+   
+    color: white;
+    height: 50px;
+    font-family: 'Encode Sans', sans-serif;
+    text-align: right;
+    padding: 100px;
+}
+
+.home-m{
+    font-family: 'Gabarito', sans-serif;
+    font-size: 18px;
+}
+.what-h1{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.what-para{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.course{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.what-para1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.social-icon{
+    color: white;
+
+
+}
+.what-h2{
+    text-align: center;
+}
+.icon{
+   
+    height: 80px;
+    padding: 20px;
+}
+.contact-info{
+    text-align: center;
+}
